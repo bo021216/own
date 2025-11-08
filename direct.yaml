@@ -12,7 +12,7 @@ payload:
 - DOMAIN-KEYWORD,pypd.paypal-mktg.com
 - DOMAIN-KEYWORD,lisahost.com
 - DOMAIN-KEYWORD,typingclub.com
-#- DOMAIN-KEYWORD,test.ustc.edu.cn
+- DOMAIN-KEYWORD,test.ustc.edu.cn
 - DOMAIN-KEYWORD,siteground.com
 - DOMAIN-KEYWORD,xn--ngstr-ira8j.com
-- DOMAIN-KEYWORD,emos.lol
+#- DOMAIN-KEYWORD,emos.lol
