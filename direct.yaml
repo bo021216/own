@@ -17,4 +17,5 @@ payload:
 - DOMAIN-KEYWORD,test.ustc.edu.cn
 - DOMAIN-KEYWORD,siteground.com
 - DOMAIN-KEYWORD,worldfirst
-- DOMAIN-KEYWORD,everdrycoat.com
+#- DOMAIN-KEYWORD,everdrycoat.com
+- DOMAIN-KEYWORD,ncat.app
