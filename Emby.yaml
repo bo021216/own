@@ -1,7 +1,6 @@
 payload:
-#- DOMAIN-KEYWORD,cf.imetyou.top
 - DOMAIN-KEYWORD,emos.lol
 - DOMAIN-KEYWORD,emby.bangumi.ca
 - DOMAIN-KEYWORD,hka-emby.aliz.work
-#- DOMAIN-KEYWORD,media.nijigem.by
+- DOMAIN-KEYWORD,media.nijigem.by
 - DOMAIN-KEYWORD,default.cdn.bgp.yt
