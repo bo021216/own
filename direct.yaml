@@ -25,10 +25,7 @@ payload:
 - DOMAIN-KEYWORD,uuwallet
 - DOMAIN-KEYWORD,sorapay
 - DOMAIN-KEYWORD,emos.de5.net
-- DOMAIN-KEYWORD,ap-cn01.emby.bangumi.ca
-- DOMAIN-KEYWORD,ap-cn02.emby.bangumi.ca
-- DOMAIN-KEYWORD,ap-cn03.emby.bangumi.ca
-- DOMAIN-KEYWORD,ap-cn04.emby.bangumi.ca
+- DOMAIN-KEYWORD,emby.bangumi.ca
 - DOMAIN-KEYWORD,miyaip.com
 - DOMAIN-KEYWORD,app.aait.io
 - DOMAIN-KEYWORD,nxonearth.com
