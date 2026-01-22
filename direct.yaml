@@ -26,7 +26,7 @@ payload:
 - DOMAIN-KEYWORD,app.aait.io
 - DOMAIN-KEYWORD,nxonearth.com
 - DOMAIN-KEYWORD,pixverse
-#emby
+#emos
 - DOMAIN-KEYWORD,emos.ujmb.dpdns.org
 - DOMAIN-KEYWORD,emos.us.ci
 - DOMAIN-KEYWORD,emos.078899.xyz
@@ -36,5 +36,7 @@ payload:
 - DOMAIN-KEYWORD,emos.movier.ink
 - DOMAIN-KEYWORD,dir.fengsaner.xyz/https://emos.best
 - DOMAIN-KEYWORD,clun.top
+#nya
+- DOMAIN-KEYWORD,emby.bangumi.ca
 #- DOMAIN-KEYWORD,cf.imetyou.top
 #- DOMAIN-KEYWORD,media.nijigem.by
