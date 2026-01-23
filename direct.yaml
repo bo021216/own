@@ -38,5 +38,5 @@ payload:
 - DOMAIN-KEYWORD,clun.top
 #nya
 - DOMAIN-KEYWORD,ap-cn01.emby.bangumi.ca
-- DOMAIN-KEYWORD,okemby
+#- DOMAIN-KEYWORD,okemby
 #- DOMAIN-KEYWORD,media.nijigem.by
