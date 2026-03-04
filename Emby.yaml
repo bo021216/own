@@ -6,6 +6,5 @@ payload:
 - DOMAIN-KEYWORD,default.cdn.bgp.yt
 #- DOMAIN-KEYWORD,https://emos-cn.078899.xyz
 #- DOMAIN-KEYWORD,https://direct.emos.lol:15611
-- DOMAIN-KEYWORD,okemby
-- DOMAIN-KEYWORD,emby.enic65.eu.org
-- DOMAIN-KEYWORD,ok.1653.us.ci
+#- DOMAIN-KEYWORD,okemby
+
