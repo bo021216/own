@@ -7,7 +7,7 @@ payload:
 - DOMAIN-KEYWORD,ups
 - DOMAIN-KEYWORD,proxy-seller.com
 - DOMAIN-KEYWORD,gh-proxy.com
-- DOMAIN-KEYWORD,mitce.net
+#- DOMAIN-KEYWORD,mitce.net
 - DOMAIN-KEYWORD,ikuuu.de
 - DOMAIN-KEYWORD,hostinger.com
 - DOMAIN,seller.tiktokshopglobalselling.com
