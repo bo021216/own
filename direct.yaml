@@ -40,15 +40,15 @@ payload:
 #nya
 - DOMAIN-KEYWORD,ap-cn01.emby.bangumi.ca
 - DOMAIN-KEYWORD,emby.etflix.lol
-- DOMAIN-KEYWORD,okemby.798777.xyz
 - DOMAIN-KEYWORD,dadakuai.552554.xyz
-- DOMAIN-KEYWORD,emby.enic65.eu.org
-- DOMAIN-KEYWORD,ok.1653.us.ci
+#okemby
 - DOMAIN-KEYWORD,okemby.wangjunqiang.indevs.in
 - DOMAIN-KEYWORD,okemby.wangjunqiang.dev
+- DOMAIN-KEYWORD,emby.enic65.eu.org
 - DOMAIN-KEYWORD,ok.liuer.indevs.in
-#- DOMAIN-KEYWORD,yue.to
 - DOMAIN-KEYWORD,emby.axuitomo.ggff.net
+- DOMAIN-KEYWORD,ok.1653.us.ci
+#- DOMAIN-KEYWORD,yue.to
 #通用
 - DOMAIN-KEYWORD,auto.liuer.indevs.in
 - DOMAIN-KEYWORD,auto.dolby.dpdns.org
