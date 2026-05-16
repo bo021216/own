@@ -28,8 +28,8 @@ payload:
 - DOMAIN-KEYWORD,pixverse
 - DOMAIN-KEYWORD,easywang.net
 - DOMAIN-KEYWORD,vansenpaint.com
-- DOMAIN,jackyun.com
-- DOMAIN,jkyservice.com
+- DOMAIN-KEYWORD,jackyun.com
+- DOMAIN-KEYWORD,jkyservice.com
 #emos
 - DOMAIN-KEYWORD,emos.ujmb.dpdns.org
 - DOMAIN-KEYWORD,emos.us.ci
