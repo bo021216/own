@@ -67,3 +67,11 @@ payload:
 - DOMAIN-KEYWORD,emby.noomi.eu.cc
 - DOMAIN-KEYWORD,fd.dirige.de5.net
 - DOMAIN-KEYWORD,auto.embys.dpdns.org
+#微信小程序
+- DOMAIN-SUFFIX,qq.com
+- DOMAIN-SUFFIX,weixin.qq.com
+- DOMAIN-SUFFIX,wxapp.qq.com
+- DOMAIN-SUFFIX,qpic.cn
+- DOMAIN-SUFFIX,tenpay.com
+- DOMAIN-SUFFIX,wechat.com
+- DOMAIN-SUFFIX,tencent.com
