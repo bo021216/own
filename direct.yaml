@@ -39,7 +39,7 @@ payload:
 - DOMAIN-KEYWORD,www.uniment.net
 - DOMAIN-KEYWORD,zhibofeng
 - DOMAIN-KEYWORD,flower.tempmusics.tk
-#- DOMAIN-KEYWORD,deli123.com  
+- DOMAIN-KEYWORD,deli123.com  
 #emos
 - DOMAIN-KEYWORD,emos.ujmb.dpdns.org
 - DOMAIN-KEYWORD,emos.us.ci
