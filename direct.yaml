@@ -47,7 +47,7 @@ payload:
 - DOMAIN-KEYWORD,ppvod011.blbtgg.com
 - DOMAIN,u.shytkjgs.com
 - DOMAIN,skan.singular.net
-- DOMAIN-KEYWORD,epoxyfloor-paint
+#- DOMAIN-KEYWORD,epoxyfloor-paint
 #emos
 - DOMAIN-KEYWORD,emos.ujmb.dpdns.org
 - DOMAIN-KEYWORD,emos.us.ci
