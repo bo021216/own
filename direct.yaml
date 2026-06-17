@@ -1,4 +1,5 @@
 payload:
+- DOMAIN,vod.feifei-video.com
 - DOMAIN,res.peiyinfeng.com
 - DOMAIN-KEYWORD,zoho
 #- DOMAIN,token.safebrowsing.apple
