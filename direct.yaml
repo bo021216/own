@@ -1,6 +1,6 @@
 payload:
 - DOMAIN-KEYWORD,zoho
-- DOMAIN,token.safebrowsing.apple
+#- DOMAIN,token.safebrowsing.apple
 - DOMAIN-KEYWORD,maoyt
 - DOMAIN-KEYWORD,gying
 - DOMAIN-KEYWORD,gya
