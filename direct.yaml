@@ -1,4 +1,6 @@
 payload:
+- DOMAIN-KEYWORD,auto.dolby.dpdns.org
+- DOMAIN-KEYWORD,auto-zerocost.dolby.dpdns.org
 - DOMAIN-KEYWORD,zdianyun
 - DOMAIN,vod.feifei-video.com
 - DOMAIN,res.peiyinfeng.com
