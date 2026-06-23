@@ -1,4 +1,5 @@
 payload:
+- DOMAIN,237822bea970.edge.sdk.awswaf.com
 - DOMAIN,push.services.mozilla.com
 - DOMAIN-KEYWORD,immersivetranslate
 - DOMAIN-KEYWORD,topeasy
