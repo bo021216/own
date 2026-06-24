@@ -1,4 +1,12 @@
 payload:
+- DOMAIN-SUFFIX,ibytedtos.com,DIRECT
+- DOMAIN-SUFFIX,kwai.com,DIRECT
+- DOMAIN-SUFFIX,apicipanqingli.com,DIRECT
+- DOMAIN-SUFFIX,rapidssl.com,DIRECT
+- DOMAIN-SUFFIX,worldtimeapi.org,DIRECT
+- DOMAIN-SUFFIX,staevent.xyz,DIRECT
+- DOMAIN-SUFFIX,vodglcdn.com,DIRECT
+- DOMAIN,status.rapidssl.com,DIRECT
 - DOMAIN,237822bea970.edge.sdk.awswaf.com
 - DOMAIN,push.services.mozilla.com
 - DOMAIN-KEYWORD,immersivetranslate
