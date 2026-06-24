@@ -1,4 +1,6 @@
 payload:
+- DOMAIN,crl3.digicert.com,DIRECT
+- DOMAIN,x1.c.lencr.org,DIRECT
 - DOMAIN-SUFFIX,ibytedtos.com,DIRECT
 - DOMAIN-SUFFIX,kwai.com,DIRECT
 - DOMAIN-SUFFIX,apicipanqingli.com,DIRECT
