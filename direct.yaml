@@ -1,4 +1,7 @@
 payload:
+- DOMAIN,csc3-2004-crl.verisign.com,DIRECT
+- DOMAIN,ocsp.verisign.com,DIRECT
+- DOMAIN-SUFFIX,verisign.com,DIRECT 
 - DOMAIN,crl3.digicert.com,DIRECT
 - DOMAIN,x1.c.lencr.org,DIRECT
 - DOMAIN-SUFFIX,ibytedtos.com,DIRECT
