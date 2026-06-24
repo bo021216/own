@@ -1,4 +1,6 @@
 payload:
+- DOMAIN,weatherkit.apple.com.akadns.net,DIRECT
+- DOMAIN-SUFFIX,appsflyersdk.com,DIRECT
 - DOMAIN,csc3-2004-crl.verisign.com,DIRECT
 - DOMAIN,ocsp.verisign.com,DIRECT
 - DOMAIN-SUFFIX,verisign.com,DIRECT 
