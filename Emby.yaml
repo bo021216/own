@@ -1,8 +1,8 @@
 payload:
-- DOMAIN-KEYWORD,od.emby.fan
-- DOMAIN-KEYWORD,vido.emos.best
+- DOMAIN,od.emby.fan
+- DOMAIN,vido.emos.best
 #- DOMAIN-KEYWORD,emby.bangumi.ca
-- DOMAIN-KEYWORD,hka-emby.aliz.work
-- DOMAIN-KEYWORD,media.nijigem.by
-- DOMAIN-KEYWORD,default.cdn.bgp.yt
+- DOMAIN,hka-emby.aliz.work
+- DOMAIN,media.nijigem.by
+- DOMAIN,default.cdn.bgp.yt
 
