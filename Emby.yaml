@@ -1,10 +1,8 @@
 payload:
-- DOMAIN-KEYWORD,emos.best
+- DOMAIN-KEYWORD,od.emby.fan
+- DOMAIN-KEYWORD,vido.emos.best
 #- DOMAIN-KEYWORD,emby.bangumi.ca
 - DOMAIN-KEYWORD,hka-emby.aliz.work
 - DOMAIN-KEYWORD,media.nijigem.by
 - DOMAIN-KEYWORD,default.cdn.bgp.yt
-#- DOMAIN-KEYWORD,https://emos-cn.078899.xyz
-#- DOMAIN-KEYWORD,https://direct.emos.lol:15611
-#- DOMAIN-KEYWORD,okemby
 
