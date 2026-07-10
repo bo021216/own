@@ -97,11 +97,11 @@ payload:
 #- DOMAIN-KEYWORD,yue.to
 - DOMAIN-KEYWORD,ok.66666320.xyz
 #通用
-- DOMAIN-KEYWORD,auto.liuerao.dpdns.org
-- DOMAIN-KEYWORD,auto.dolby.dpdns.org
-- DOMAIN-KEYWORD,emby.noomi.eu.cc
-- DOMAIN-KEYWORD,fd.dirige.de5.net
-- DOMAIN-KEYWORD,auto.embys.dpdns.org
+- DOMAIN,auto.liuerao.dpdns.org
+- DOMAIN,auto.dolby.dpdns.org
+- DOMAIN,emby.noomi.eu.cc
+- DOMAIN,fd.dirige.de5.net
+- DOMAIN,auto.embys.dpdns.org
 #微信小程序
 - DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,weixin.qq.com
