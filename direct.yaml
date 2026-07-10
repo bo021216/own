@@ -1,4 +1,5 @@
 payload:
+- DMAIN,test.emby.fan
 - DOMAIN,emby-npo.hohai.eu.org
 - DOMAIN,emby.taotu.ink
 - DOMAIN,cf.emby.fan
