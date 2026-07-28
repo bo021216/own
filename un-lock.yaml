@@ -13,3 +13,27 @@ payload:
 - DOMAIN-KEYWORD,v.rn
 - DOMAIN-KEYWORD,hembed
 - DOMAIN-KEYWORD,guaiguaiemby
+  # Jable
+- DOMAIN-SUFFIX,jable.tv
+- DOMAIN-KEYWORD,jable
+- DOMAIN,cdn.jable.tv
+- DOMAIN,assetscdn.jable.tv
+- DOMAIN,assetscdn2.jable.tv
+- DOMAIN,assetscdn3.jable.tv
+- DOMAIN,assets-cdn.jable.tv
+- DOMAIN,cdn0.jable.tv
+- DOMAIN,static.jable.tv
+- DOMAIN,en.jable.tv
+- DOMAIN,assets.jable.tv
+- DOMAIN,tempx.jable.tv
+- DOMAIN,tempcheck.jable.tv
+- DOMAIN,hook.jable.tv
+- DOMAIN,smart.jable.tv
+  
+  # Hanime1
+- DOMAIN-SUFFIX,hanime1.me
+- DOMAIN-KEYWORD,hanime1
+  
+  # Rou.video
+- DOMAIN-SUFFIX,rou.video
+- DOMAIN-KEYWORD,rouvideo
