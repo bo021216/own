@@ -1,14 +1,23 @@
 payload:
-- DOMAIN,auto-zerocost.liuerao.dpdns.org
-- DOMAIN,ue2.taotu.ink
+- DOMAIN,douyin.phpnbw.com
+- DOMAIN,sentry.proxyband.space
+- DOMAIN-KEYWORD,snov
+- DOMAIN-KEYWORD,kalodata
+- DOMAIN-KEYWORD,stripe
+- DOMAIN-KEYWORD,stash
+- DOMAIN,d.shbfgyl.com
+- DOMAIN-SUFFIX,vip12.top
+- DOMAIN-KEYWORD,adspower
+- DOMAIN,emya.wwzb.de
+#- DOMAIN,cf.imetyou.top
+- DOMAIN-KEYWORD,macked.app
+- DOMAIN-KEYWORD,cn.americaaddress.com
+- DOMAIN-KEYWORD,meiguodizhi.com
 - DOMAIN,ct.hw.090227.xyz
 - DOMAIN,test.emby.fan
 - DOMAIN,emby-npo.hohai.eu.org
-- DOMAIN,emby.taotu.ink
 - DOMAIN,cf.emby.fan
 - DOMAIN,od.emby.fan
-- DOMAIN-KEYWORD,ok.draxy.eu.cc
-- DOMAIN-KEYWORD,eemby.cc.cd
 - DOMAIN-KEYWORD,ecweb
 - DOMAIN-KEYWORD,jkyun
 - DOMAIN,weatherkit.apple.com.akadns.net
@@ -28,7 +37,7 @@ payload:
 - DOMAIN,status.rapidssl.com
 - DOMAIN,237822bea970.edge.sdk.awswaf.com
 - DOMAIN,push.services.mozilla.com
-- DOMAIN-KEYWORD,immersivetranslate
+#- DOMAIN-KEYWORD,immersivetranslate
 - DOMAIN-KEYWORD,topeasy
 - DOMAIN-KEYWORD,smartsousou
 - DOMAIN-KEYWORD,56ok
@@ -37,7 +46,7 @@ payload:
 - DOMAIN-KEYWORD,zdianyun
 - DOMAIN,vod.feifei-video.com
 - DOMAIN,res.peiyinfeng.com
-- DOMAIN-KEYWORD,zoho
+#- DOMAIN-KEYWORD,zoho
 #- DOMAIN,token.safebrowsing.apple
 - DOMAIN-KEYWORD,maoyt
 - DOMAIN-KEYWORD,gying
@@ -49,7 +58,7 @@ payload:
 - DOMAIN-KEYWORD,proxy-seller.com
 - DOMAIN-KEYWORD,gh-proxy.com
 #- DOMAIN-KEYWORD,mitce.net
-- DOMAIN-KEYWORD,ikuuu.de
+#- DOMAIN-KEYWORD,ikuuu
 - DOMAIN-KEYWORD,hostinger.com
 - DOMAIN,seller.tiktokshopglobalselling.com
 - DOMAIN-KEYWORD,pypd.paypal-mktg.com
@@ -86,25 +95,47 @@ payload:
 - DOMAIN,u.shytkjgs.com
 - DOMAIN,skan.singular.net
 #emby
+#etflix
+- DOMAIN-KEYWORD,goemby
+##hohai
+- DOMAIN,tv.hohai.eu.org
+#mebian
+- DOMAIN,media.nijigem.by
+- DOMAIN,default.cdn.bgp.yt
+- DOMAIN,cu.cdn.bgp.yt
+- DOMAIN,ru-e.cdn.bgp.yt
+- DOMAIN,cm.cdn.bgp.yt
+- DOMAIN,ct.cdn.bgp.yt
+- DOMAIN,bckup-hk.cdn.bgp.yt
+- DOMAIN,bckup-md.cdn.bgp.yt
+#lewa
+- DOMAIN,emby.taotu.ink
+- DOMAIN,ue2.taotu.ink
+- DOMAIN,eb.atrct.cn
 #nya
-- DOMAIN-KEYWORD,ap-cn01.emby.bangumi.ca
-- DOMAIN-KEYWORD,emby.etflix.lol
-- DOMAIN-KEYWORD,dadakuai.552554.xyz
+- DOMAIN,ap-cn01.emby.bangumi.ca
+- DOMAIN,ap-cn02.emby.bangumi.ca
+- DOMAIN,nya.lris625.top
 #okemby
-- DOMAIN-KEYWORD,okemby.wangjunqiang.indevs.in
-- DOMAIN-KEYWORD,okemby.wangjunqiang.dev
-- DOMAIN-KEYWORD,emby.enic65.eu.org
-- DOMAIN-KEYWORD,ok.liuer.indevs.in
-- DOMAIN-KEYWORD,emby.axuitomo.ggff.net
-- DOMAIN-KEYWORD,ok.1653.us.ci
-#- DOMAIN-KEYWORD,yue.to
-- DOMAIN-KEYWORD,ok.66666320.xyz
+- DOMAIN-KEYWORD,eemby.cc.cd
+- DOMAIN,ok.draxy.eu.cc
+- DOMAIN,okemby.wangjunqiang.indevs.in
+- DOMAIN,okemby.wangjunqiang.dev
+- DOMAIN,ok.liuerao.dpdns.org
+- DOMAIN,ok.youko.cc.cd
+- DOMAIN,ok3.lris625.top
+- DOMAIN,emby.enic65.eu.org
+- DOMAIN,ok.66666320.xyz
 #通用
 - DOMAIN,auto.liuerao.dpdns.org
 - DOMAIN,auto.dolby.dpdns.org
 - DOMAIN,emby.noomi.eu.cc
 - DOMAIN,fd.dirige.de5.net
 - DOMAIN,auto.embys.dpdns.org
+- DOMAIN,fx.emby1.ccwu.cc
+- DOMAIN,fx.emby2.ccwu.cc
+- DOMAIN,fx.emby3.ccwu.cc
+- DOMAIN,auto-zerocost.liuerao.dpdns.org
 #微信小程序
 - DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,weixin.qq.com
