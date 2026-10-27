@@ -21,7 +21,6 @@ payload:
 - DOMAIN-KEYWORD,meiguodizhi.com
 - DOMAIN,ct.hw.090227.xyz
 - DOMAIN,test.emby.fan
-- DOMAIN,emby-npo.hohai.eu.org
 - DOMAIN,cf.emby.fan
 - DOMAIN,od.emby.fan
 - DOMAIN-KEYWORD,ecweb
@@ -104,7 +103,8 @@ payload:
 #etflix
 - DOMAIN-KEYWORD,goemby
 ##hohai
-- DOMAIN,tv.hohai.eu.org
+#- DOMAIN,emby-npo.hohai.eu.org
+#- DOMAIN,tv.hohai.eu.org
 #mebian
 - DOMAIN,media.nijigem.by
 - DOMAIN,default.cdn.bgp.yt
