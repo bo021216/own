@@ -5,7 +5,7 @@ payload:
 - DOMAIN-KEYWORD,8888ka
 - DOMAIN-KEYWORD,plikes
 - DOMAIN-KEYWORD,jiyun688
-#- DOMAIN,video.emos.best
+- DOMAIN,video.emos.best
 - DOMAIN-KEYWORD,rex
 - DOMAIN-KEYWORD,phpnbw
 - DOMAIN,sentry.proxyband.space
