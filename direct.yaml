@@ -66,7 +66,7 @@ payload:
 - DOMAIN-KEYWORD,proxy-seller.com
 - DOMAIN-KEYWORD,gh-proxy.com
 #- DOMAIN-KEYWORD,mitce.net
-#- DOMAIN-KEYWORD,ikuuu
+- DOMAIN-KEYWORD,ikuuu
 - DOMAIN-KEYWORD,hostinger.com
 - DOMAIN,seller.tiktokshopglobalselling.com
 - DOMAIN-KEYWORD,pypd.paypal-mktg.com
